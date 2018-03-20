@@ -1,0 +1,25 @@
+/* styles */
+@media (max-width: 35em) {
+    
+#app {
+    font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: rgb(77, 77, 77);
+    min-width: 290px;
+    max-width: 290px;
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 100%
+}
+
+.toastr {
+    align-items: center;
+}
+
+a.active {
+    color: orange;
+}
+
+nav {
+    padding-top: 20px;
+}
+}
